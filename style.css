@@ -95,3 +95,8 @@ section.testimonials {
 section.testimonials .button {
   margin-bottom: 10px;
 }
+
+/* ---- canvas ---- */
+canvas {
+  border: 1px solid black;
+}
